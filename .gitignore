@@ -1,0 +1,11 @@
+# будем игнорировать tmp
+/tmp
+
+#будем игнорировать _old, _backup
+*_old
+*_backup
+
+#будем игнорировать Thumbs.db / .DS_Store
+Thumbs.db
+.DS_Store
+img/.DS_Store
